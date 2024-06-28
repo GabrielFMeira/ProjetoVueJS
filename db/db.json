@@ -79,7 +79,7 @@
   ],
   "burgers": [
     {
-      "id": "a3fd",
+      "id": "2657",
       "nome": "Gabriel",
       "carne": "Picanha",
       "pao": "Parmesão e Orégano",
@@ -87,63 +87,11 @@
         "Bacon",
         "Salame",
         "Cebola roxa",
-        "Pepino",
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "9e8c",
-      "nome": "Gabriel",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Pepino",
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "8b27",
-      "nome": "Gabriel",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [
         "Cheddar",
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
+        "Tomate",
+        "Pepino"
       ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "03aa",
-      "nome": "Gabriel",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "df15",
-      "nome": "Gabriel",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Tomate"
-      ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     }
   ]
 }
